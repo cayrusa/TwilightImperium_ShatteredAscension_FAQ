@@ -1,0 +1,81 @@
+# Shattered Ascension FAQ - v1_2021-06-14
+***By Cyrusa***  
+***Email for feedback: cyrusa+ti3 (at) crans.org***  
+***Credits to ThLunarian for the idea and the initial document this FAQ is based upon.***
+
+> This FAQ aims at answering common rule questions, as well as covering complicated rule interactions in specific scenarios. 
+
+> To get an url pointing to a specific part of this rulebook (to give to a friend for example), hover over a title and click on the link icon that will pop up on its left, then copy the new url of the webpage. This also works for internal links, simply click on them and copy the new url of the webpage.
+
+## Categories
+
+- [TableTop Simulator](#user-content-TableTopSimulator)
+- [Strategy Cards](#user-content-StrategyCards)
+- [Miscellaneous](#user-content-Miscellaneous)
+
+## TableTop Simulator<a name="TableTopSimulator"></a>  
+
+#### There are two TableTop Simulator mod for Shattered Ascension, which one should I use?
+
+On the steam workshop, you can find two Shattered Ascension mods for TableTop Simulator: the [standard one](https://steamcommunity.com/sharedfiles/filedetails/?id=478727953&searchtext=shattered+ascension) and the [nova one](https://steamcommunity.com/sharedfiles/filedetails/?id=744823163&searchtext=shattered+ascension). The short answer is that they are actually identical most of the time. There is only about a week of delay before an update to one of gets mirrored in the other. **The usual recommendation is to use the nova one** because it gets updated first, but there is nothing wrong with using the other. In fact, you should probably subscribe to both if you want to show your support.  
+
+
+Long answer: PsiComa created the standard mod. Steam only allows the creator of a mod to update it. At the time when Cyrusa wrote scripts for it and tried a new table layout (which became the standard table layout used in both mods), there were so many updates it was more convenient to create a separate mod he could update himself: the nova one. Now when Cyrusa updates the scripts\*, he updates the nova mod, then PsiComa mirrors the update on the standard mod, usually not longer than a week after.
+
+\**There is no issue with asset updates because both mods pull them from the same internet source.*
+
+#### Why does no one ever draw the Sabotage Action Card in the TableTop Simulator mod?
+
+Sabotage has been removed from the deck in the Tabletop Simulator mod. Testing has revealed that the card leads to unfun gameplay, as a very carefully sequenced turn which is reliant on one or more Action Cards can be randomly ruined with little effort. This produced an undesirable amount of variance, and so the card was removed. If you prefer to play with it, you can find it in the Assets bags near the bottom of the table, and re-add it to the deck.
+
+## Strategy Cards<a name="StrategyCards"></a>  
+
+#### Can my ships pickup the High Alert Token (from the Warfare Strategy Card) on their way?
+<!-- ![WarfareSC_Primary_2021-06-12](./Images/WarfareSC_Primary_2021-06-12.jpg) -->
+
+**No**. The High Alert Token can only be moved by ships that start their movement in its system, and it follows them to their destination (it cannot be dropped on the way).
+
+#### Can I use the secondary ability of the Diplomacy Strategy Card to annex a planet through a worldgate?
+
+**No**. Worldgates do not make planets adjacent, they allow a form of special movement. See [Rulebook/Worldgates](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#worldgates)
+
+#### Can I use the secondary ability of Diplomacy to annex a planet containing a Leader but no units?
+
+**No**. The secondary ability of Diplomacy requires the planet to be *empty*. By definition, a planet is empty if it contains no units or Leaders. See [Rulebook/Empty Planet](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#empty-planet).
+The situation is different if you have the [XenoPsychology](http://www.astralvault.net/games/SA/TTS/Misc/CascadingTechTreeDark_SA.jpg) technology, since it allows to annex a planet *"if no ground units remain on it"*, therefore ignoring Leaders, PDS and Space Docks.
+
+#### I am producing units with the secondary ability of the Production Strategy Card. Can I use another effect\* to increase my production capacity beyond the limit of 3 set by the card?
+
+**No**. The [secondary ability of Production](http://www.astralvault.net/games/SA/TTS/StrategyCards/xProduction.jpg) does not actually give you 3 production capacity, it lets you produce units at a Space Dock, but prevents you from using more than 3 production capacity in this build. Increasing your production capacity does not go around that. However, if your Space Dock provides less than 3 production capacity for some reason, you can use another effect to boost that number and then use 3 of them as per the limit set by the secondary ability of Production.
+
+\**For example the [Transfabrication](http://www.astralvault.net/games/SA/TTS/Misc/CascadingTechTreeDark_SA.jpg) Technology.*
+
+## Miscellaneous<a name="Miscellaneous"></a>  
+
+#### Do units spawned by Domain Counters count as "enemy" units for objectives\*?
+
+**No**, because units spawned by Domain Counters are **neutral**, not **enemy**. See [Rulebook/Allegiances](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#user-content-Allegiances).
+
+\**For example an objective like "This round I destroyed enemy units in two different systems".*
+
+#### Do artefacts count as technology specialties. For example for the Focused Secret Objective?
+
+**No**. Artefacts have nothing to do with technology specialties. They do provide a similar effect of discounting by 1 the price of technologies of their colour, but they are not technology specialties. See [Rulebook/Artifacts](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#artifacts).
+
+#### Can my PDS shoot before a space battle that was triggered by Domain Counters?
+
+**No**. PDS only shoot (i.e. use their Space Cannon ability) during step 3) of Tactical Actions: [*Space Cannons Abilities*](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#3-space-cannons-abilities). Domain Counters and Space Battles they cause are resolved either during step 2): *Movement* or 5): *Planetary Landings* (depending on whether they are in space or on a planet), so PDS do not get a chance to shoot since the neutral units from the Domain Counters do not exist during step 3) of the Tactical Action. See [Rulebook/Domain Counters](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#domain-counters).
+
+#### What’s up with the Racial Objectives?
+
+Testing revealed that human players\* do not have enough brain capacity to be able to track how close each opponent is to all three of their objectives, and so they have been removed from the default game setting in the Tabletop Simulator mod. They are available in the setup options; however, be aware that, because they have not been played with much, they have not been properly balanced and tested. To be clear this does not mean they are completely out of whack. It just means they are not as polished as the rest of Shattered Ascension.
+
+\**Last time we checked, SA players are mostly comprised of humans and an otter.*
+
+#### If I have the Integrated Economy Technology, can I produce ground units on a Trade Station and place them on a ship in the system like Saar's floating Space Docks do?
+
+**No**. Trade Stations are planets. The [production rule](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#b-produce-units) says that if the producer is a planet, the produced units that are planet-based must be placed on the planet, but the [Trade Station rule](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#trade-stations) says they cannot exist on it, so you cannot place them and therefore cannot produce them.
+
+#### Do PDS shots count as combat rolls?
+
+**Yes**. Per the definition, any time you roll a die and compare it to the combat value of the unit (6 for PDS) is a [Combat Roll](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#user-content-CombatRoll).

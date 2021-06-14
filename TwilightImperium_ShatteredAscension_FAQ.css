@@ -1,0 +1,376 @@
+ Solarized (Dark) */
+/* Authors: Ethan Schoonover: http://ethanschoonover.com/solarized, CodeCatalyst: http://codecatalyst.com/ */
+/* Version: d9a83f4e7a47432baff86e1e7946d9e066cf3d1b (modified) */
+/* https://github.com/CodeCatalyst/mou-theme-solarized */
+
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+ol,
+ul,
+li,
+img {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+html * {
+  font-family: "ff-din-web-pro-1", "ff-din-web-pro-2", sans-serif;
+  font-size: 16px;
+  line-height: 19.2px;
+  color-profile: sRGB;
+}
+body {
+  min-width: 32em;
+  max-width: 52em;
+  margin-right: auto;
+  margin-left: auto;
+}
+p {
+  /*font-weight: lighter;*/
+  margin-bottom: 20px;
+}
+strong {
+  font-weight: 800;
+}
+ol,
+ul {
+  margin-left: 2em;
+  margin-bottom: 20px;
+}
+ul ul,
+ol ol,
+ul ol,
+ol ul {
+  margin-top: 10px;
+}
+li {
+  margin-bottom: 10px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: lighter;
+  text-transform: capitalize;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h1 {
+  font-size: 27.624px;
+  line-height: 29.548799999999996px;
+}
+h2 {
+  font-size: 24.624px;
+  line-height: 29.548799999999996px;
+}
+h3 {
+  font-size: 23.44px;
+  line-height: 28.128px;
+}
+h4 {
+  font-size: 20.16px;
+  line-height: 26.592px;
+}
+h5 {
+  font-size: 22.16px;
+  line-height: 26.592px;
+}
+h6 {
+  font-size: 22.16px;
+  line-height: 26.592px;
+}
+img {
+  margin-bottom: 20px;
+}
+h1 img,
+h2 img,
+h3 img,
+h4 img,
+h5 img,
+h6 img,
+p img {
+  margin-bottom: 0;
+}
+pre {
+  margin-bottom: 20px;
+}
+pre,
+code {
+  font-family: monospace;
+}
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  padding: 15px;
+}
+h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+h2 {
+  font-weight: bold;
+  border-bottom: 1px solid;
+}
+h3 {
+  font-weight: bold;
+}
+h3,
+h4,
+h5,
+h6 {
+  border-bottom: none;
+}
+html * {
+  color: #839496;
+}
+html body {
+  background-color: #4C0E55;
+}
+html h1,
+html h2,
+html h3,
+html h4,
+html h5,
+html h6 {
+  color: #93a1a1;
+  border-color: #839496;
+}
+html a,
+html a:active,
+html a:visited {
+  color: #93a1a1;
+}
+html a:hover {
+  background-color: #073642;
+}
+html pre {
+  color: #93a1a1;
+  background-color: #073642;
+}
+html a,
+html a:active,
+html a:visited,
+html code.url {
+  color: #b58900;
+}
+html h1 {
+  color: #b58900;
+}
+html h2,
+html h3,
+html h4,
+html h5,
+html h6 {
+  color: #b58900;
+}
+
+/* My Changes (Start)*/
+blockquote {
+  border-left: 4px solid #b58900 !important;
+  padding: 0 15px;
+  color: #baa978;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+  color: #b7ac8b;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+.markdown-body h1 .octicon-link,
+.markdown-body h2 .octicon-link,
+.markdown-body h3 .octicon-link,
+.markdown-body h4 .octicon-link,
+.markdown-body h5 .octicon-link,
+.markdown-body h6 .octicon-link {
+	color: #fff;
+	vertical-align: middle;
+	visibility: hidden;
+}
+
+.markdown-body pre {
+  background-color: #014f63;
+}
+
+h4,
+h5{
+  margin-left: 25px;
+}
+
+h6 {
+  margin-left: 50px;
+}
+
+.markdown-body h6 {
+/*  font-size: 1em;*/
+  color: #b58900;
+}
+
+div {
+    margin-left: 25px;
+} 
+
+/*Table background and borders (Start)*/
+
+table,
+thead,
+tbody,
+tr,
+td,
+th {
+  /*background-color:rgba(0, 0, 0, 0);*/
+  /*background: none;*/
+  /*background-color: #002b36;*/
+  /*background-color:rgba(0, 0, 0, 0);*/
+/*  background-color: #11ffee00;*/
+  /*background-color: inherit;*/
+/*  border: 0px;
+*/}
+
+.markdown-body table tr {
+  /*background-color: #fff;*/
+  /*border-top: 1px solid #ccc;*/
+  /* #11ffee00 is a fully transparent colour*/
+  background-color: #11ffee00;
+  border: 0px;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #11ffee00;
+}
+
+.markdown-body table th {
+  /*background-color: #fff;
+  border-top: 1px solid #ccc;*/
+  background-color: #11ffee00;
+  border: 0px;
+}
+
+.markdown-body table td {
+  /*background-color: #fff;
+  border-top: 1px solid #ccc;*/
+  background-color: #11ffee00;
+  border: 0px;
+}
+
+/*Table background and borders (End)*/
+
+/*Background image*/
+
+body {
+/*color:black;
+background-color:white;*/
+background-image: url(http://www.astralvault.net/games/SA/cyrusa/cyrusaFAQ/Background_FAQ.jpg);
+/*background-image: url(http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/BackgroundDarkVersion3.jpg);*/
+background-position:center top;
+/*background-repeat:repeat-y;*/
+/*background-attachment:fixed;*/
+/*padding: 45px;
+border: 1px solid #fff;
+word-wrap: break-word;
+font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+font-size: 16px;
+line-height: 1.6;*/
+}
+
+/*Link font colour (start)*/
+
+/*yellow*/
+/*.markdown-body a {
+  color: #b58900;
+}*/
+
+/*Colour of the links, .markdown... is for not visited links, and the rest is for those that alreadyhave been clicked*/
+/*orange*/
+html a, html a:active, html a:visited, html code.ur, .markdown-body a {
+  color: #bf6100;
+}
+
+/*dark green*/
+/*html a, html a:active, html a:visited, html code.ur, .markdown-body a {
+  color: #18950a;
+}*/
+
+/*lavender*/
+/*html a, html a:active, html a:visited, html code.ur, .markdown-body a {
+  color: #ba8fea;
+}*/
+
+/*Link font colour (end)*/
+
+i img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/*.markdown-body > :first-child {
+
+    margin-top: 0 !important;
+
+}
+.markdown-body h1 {
+
+    padding-bottom: 0.3em;
+    font-size: 1.90em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+
+}*/
+
+details {
+  border-left: 4px solid #b58900;
+  padding: 0 15px;
+  color: #b7ac8b;
+}
+
+details * {
+ color: #b7ac8b; 
+}
+
+summary {
+ color: #b7ac8b;
+ padding-bottom: 10px;
+}
+
+/* My Changes (End)*/
+
+/*
+LICENSE
+
+Solarized Theme for Mou
+
+Copyright (c) 2012 CodeCatalyst, LLC
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Solarized
+
+Copyright (c) 2011 Ethan Schoonover
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
