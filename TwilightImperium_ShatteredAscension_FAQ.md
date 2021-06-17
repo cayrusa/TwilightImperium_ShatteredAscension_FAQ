@@ -1,4 +1,4 @@
-# Shattered Ascension FAQ - v1_2021-06-14
+# Shattered Ascension FAQ - v1_2021-06-17
 ***By Cyrusa***  
 ***Email for feedback: cyrusa+ti3 (at) crans.org***  
 ***Credits to ThLunarian for the idea and the initial document this FAQ is based upon.***
@@ -31,7 +31,7 @@ Sabotage has been removed from the deck in the Tabletop Simulator mod. Testing h
 ## Strategy Cards<a name="StrategyCards"></a>  
 
 #### Can my ships pickup the High Alert Token (from the Warfare Strategy Card) on their way?
-<!-- ![WarfareSC_Primary_2021-06-12](./Images/WarfareSC_Primary_2021-06-12.jpg) -->
+<!-- ![WarfareSC_Primary_2021-06-12](http://www.astralvault.net/games/SA/cyrusa/cyrusaFAQ/Images/WarfareSC_Primary_2021-06-12.jpg) -->
 
 **No**. The High Alert Token can only be moved by ships that start their movement in its system, and it follows them to their destination (it cannot be dropped on the way).
 
