@@ -1,4 +1,4 @@
-# Shattered Ascension FAQ - v1_2021-06-17
+# Shattered Ascension FAQ - v2_2021-07-14
 ***By Cyrusa***  
 ***Email for feedback: cyrusa+ti3 (at) crans.org***  
 ***Credits to ThLunarian for the idea and the initial document this FAQ is based upon.***
@@ -11,7 +11,11 @@
 
 - [TableTop Simulator](#user-content-TableTopSimulator)
 - [Strategy Cards](#user-content-StrategyCards)
+- [Domain Counters](#user-content-DomainCounters)
+- [Technologies](#user-content-Technologies)
 - [Miscellaneous](#user-content-Miscellaneous)
+
+-----
 
 ## TableTop Simulator<a name="TableTopSimulator"></a>  
 
@@ -31,7 +35,7 @@ Sabotage has been removed from the deck in the Tabletop Simulator mod. Testing h
 ## Strategy Cards<a name="StrategyCards"></a>  
 
 #### Can my ships pickup the High Alert Token (from the Warfare Strategy Card) on their way?
-<!-- ![WarfareSC_Primary_2021-06-12](http://www.astralvault.net/games/SA/cyrusa/cyrusaFAQ/Images/WarfareSC_Primary_2021-06-12.jpg) -->
+<!-- ![WarfareSC_Primary_2021-06-12](./Images/WarfareSC_Primary_2021-06-12.jpg) -->
 
 **No**. The High Alert Token can only be moved by ships that start their movement in its system, and it follows them to their destination (it cannot be dropped on the way).
 
@@ -50,7 +54,11 @@ The situation is different if you have the [XenoPsychology](http://www.astralvau
 
 \**For example the [Transfabrication](http://www.astralvault.net/games/SA/TTS/Misc/CascadingTechTreeDark_SA.jpg) Technology.*
 
-## Miscellaneous<a name="Miscellaneous"></a>  
+## Domain Counters<a name="DomainCounters"></a>  
+
+#### If I take control of a planet containing an Alien Technology, can I choose to gain the Nano Robotics technology to acquire that planet refreshed?
+
+**No**, because Alien Technology is controlled as an Artifact. Control over Artifacts on planets is established at the end of actions. This means that at the time you take control of that planet, you do not yet control the Alien Technology and therefore do not have Nano Robotics yet.
 
 #### Do units spawned by Domain Counters count as "enemy" units for objectives\*?
 
@@ -58,13 +66,25 @@ The situation is different if you have the [XenoPsychology](http://www.astralvau
 
 \**For example an objective like "This round I destroyed enemy units in two different systems".*
 
-#### Do artefacts count as technology specialties. For example for the Focused Secret Objective?
-
-**No**. Artefacts have nothing to do with technology specialties. They do provide a similar effect of discounting by 1 the price of technologies of their colour, but they are not technology specialties. See [Rulebook/Artifacts](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#artifacts).
-
 #### Can my PDS shoot before a space battle that was triggered by Domain Counters?
 
 **No**. PDS only shoot (i.e. use their Space Cannon ability) during step 3) of Tactical Actions: [*Space Cannons Abilities*](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#3-space-cannons-abilities). Domain Counters and Space Battles they cause are resolved either during step 2): *Movement* or 5): *Planetary Landings* (depending on whether they are in space or on a planet), so PDS do not get a chance to shoot since the neutral units from the Domain Counters do not exist during step 3) of the Tactical Action. See [Rulebook/Domain Counters](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#domain-counters).
+
+## Technologies<a name="Technologies"></a>  
+
+#### If I have the Integrated Economy Technology, can I produce ground units on a Trade Station and place them on a ship in the system like Saar's floating Space Docks do?
+
+**No**. Trade Stations are planets. The [production rule](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#b-produce-units) says that if the producer is a planet, the produced units that are planet-based must be placed on the planet, but the [Trade Station rule](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#trade-stations) says they cannot exist on it, so you cannot place them and therefore cannot produce them.
+
+#### Can Ground Forces reanimated with Dacxive Animators be promoted to Shock Troop?
+
+**No**, because only **surviving** Ground Forces can be promoted to Shock Troops after a won Invasion Combat. Reanimated Ground Forces are technically different units that did not participate to the Invasion Combat.
+
+## Miscellaneous<a name="Miscellaneous"></a>  
+
+#### Do artefacts count as technology specialties. For example for the Focused Secret Objective?
+
+**No**. Artefacts have nothing to do with technology specialties. They do provide a similar effect of discounting by 1 the price of technologies of their colour, but they are not technology specialties. See [Rulebook/Artifacts](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#artifacts).
 
 #### What’s up with the Racial Objectives?
 
@@ -72,10 +92,14 @@ Testing revealed that human players\* do not have enough brain capacity to be ab
 
 \**Last time we checked, SA players are mostly comprised of humans and an otter.*
 
-#### If I have the Integrated Economy Technology, can I produce ground units on a Trade Station and place them on a ship in the system like Saar's floating Space Docks do?
-
-**No**. Trade Stations are planets. The [production rule](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#b-produce-units) says that if the producer is a planet, the produced units that are planet-based must be placed on the planet, but the [Trade Station rule](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#trade-stations) says they cannot exist on it, so you cannot place them and therefore cannot produce them.
-
 #### Do PDS shots count as combat rolls?
 
 **Yes**. Per the definition, any time you roll a die and compare it to the combat value of the unit (6 for PDS) is a [Combat Roll](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#user-content-CombatRoll).
+
+#### What is the point for Shock Troops to have the "Commando" ability to capture installations since they capture them anyway with their "Capture Installations" ability?
+
+An important detail to note is that during combat rounds of Invasion Combats, Shock Troops must be assigned hits first. This means that even if you win, if the opponent scored more hits than you have Shock Troops, they will all die and you will not capture anything. If you are sure to win the combat without them, having your Shock Troops go Commando is a way to safeguard them and still capture some installations. Note that Shock Troops can go Commando even if there is no installations to capture.
+
+#### How can I get the SA-remastered system tiles? I did not see them on the website.
+
+Glad you are enjoying the look of these tiles! They are indeed not on the website, on purpose. PsiComa made them and wants to keep some control over them. Ask him nicely over Discord. You can find him on the [SA discord server](https://discord.gg/YXnyYzz).
