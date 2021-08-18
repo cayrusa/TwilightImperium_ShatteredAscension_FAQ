@@ -22,7 +22,7 @@ echo "Local versions of .md and .html saved in version folder"
 rm -r ExportToAstralvault
 mkdir ExportToAstralvault
 echo "Cleaned up ExportToAstralvault folder"
-mkdir ./ExportToAstralvault/v_${VNUMBER}
+mkdir ./ExportToAstralvault/v${VNUMBER}
 cp ${FILENAME}.md ./ExportToAstralvault/v${VNUMBER}/v${VNUMBER}_${FILENAME}.md
 cp ${FILENAME}.html ./ExportToAstralvault/v${VNUMBER}/v${VNUMBER}_${FILENAME}.html
 mkdir ./ExportToAstralvault/latest
@@ -54,7 +54,7 @@ echo "Post about the update on discord. Here is a template:"
 echo "**FAQ UPDATE**
 FAQ updated to version ${VNUMBER}
 Available on the website as usual: <http://www.astralvault.net/games/SA/index.php/downloads/>
-Changelog: <LINKTOTHECHANGELOGPOST>"
+Changes: <LINKTOTHECHANGELOGPOST>"
 
 read -p "Update the todo list about the rule rewrite"
 

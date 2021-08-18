@@ -1,4 +1,4 @@
-# Shattered Ascension FAQ - v2_2021-07-14
+# Shattered Ascension FAQ - v3_2021-08-18
 ***By Cyrusa***  
 ***Email for feedback: cyrusa+ti3 (at) crans.org***  
 ***Credits to ThLunarian for the idea and the initial document this FAQ is based upon.***
@@ -102,4 +102,4 @@ An important detail to note is that during combat rounds of Invasion Combats, Sh
 
 #### How can I get the SA-remastered system tiles? I did not see them on the website.
 
-Glad you are enjoying the look of these tiles! They are indeed not on the website, on purpose. PsiComa made them and wants to keep some control over them. Ask him nicely over Discord. You can find him on the [SA discord server](https://discord.gg/YXnyYzz).
+Glad you are enjoying the look of these tiles! They are indeed not on the website, on purpose. PsiComa made them and wants to keep some control over them. Ask him nicely over Discord or by email at <A HREF="mailto:jeskogtvedt@gmail.com">jeskogtvedt (at) gmail.com</A>. You can find him on the [SA discord server](https://discord.gg/YXnyYzz).
