@@ -46,7 +46,7 @@ read -p "TODO in sublime: Update date and version number in the title for the ne
 read -p "TODO in sublime: Markdown Preview Save to Html"
 
 echo "Now update the website"
-echo "Go to: http://www.astralvault.net/games/SA/wp-login.php?redirect_to=http%3A%2F%2Fwww.astralvault.net%2Fgames%2FSA%2Fwp-admin%2F&reauth=1"
+echo "Go to: https://www.astralvault.net/games/SA/wp-admin/post.php?post=3762&action=edit"
 echo "Update the Assets page with the version number and date"
 read -p "Website edition finished?"
 
