@@ -1,4 +1,4 @@
-# Shattered Ascension FAQ - v4_2021-08-18
+# Shattered Ascension FAQ - v5_2024-04-07
 ***By Cyrusa***  
 ***Email for feedback: cyrusa+ti3 (at) crans.org***  
 ***Credits to ThLunarian for the idea and the initial document this FAQ is based upon.***
