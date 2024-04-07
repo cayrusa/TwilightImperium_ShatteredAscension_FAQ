@@ -9,11 +9,11 @@
 
 ## Categories
 
-- [TableTop Simulator](#user-content-TableTopSimulator)
-- [Strategy Cards](#user-content-StrategyCards)
-- [Domain Counters](#user-content-DomainCounters)
-- [Technologies](#user-content-Technologies)
-- [Miscellaneous](#user-content-Miscellaneous)
+- [TableTop Simulator](#TableTopSimulator)
+- [Strategy Cards](#StrategyCards)
+- [Domain Counters](#DomainCounters)
+- [Technologies](#Technologies)
+- [Miscellaneous](#Miscellaneous)
 
 -----
 
