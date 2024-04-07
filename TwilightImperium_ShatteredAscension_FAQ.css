@@ -177,7 +177,7 @@ html h6 {
   color: #b58900;
 }
 
-/* My Changes (Start)*/
+/********************* My Changes (Start)*********************/
 blockquote {
   border-left: 4px solid #b58900 !important;
   padding: 0 15px;
@@ -208,14 +208,14 @@ blockquote>:last-child {
   background-color: #014f63;
 }
 
-h4,
+/*h4,
 h5{
   margin-left: 25px;
 }
 
 h6 {
   margin-left: 50px;
-}
+}*/
 
 .markdown-body h6 {
 /*  font-size: 1em;*/
