@@ -100,6 +100,8 @@ Testing revealed that human players\* do not have enough brain capacity to be ab
 
 An important detail to note is that during combat rounds of Invasion Combats, Shock Troops must be assigned hits first. This means that even if you win, if the opponent scored more hits than you have Shock Troops, they will all die and you will not capture anything. If you are sure to win the combat without them, having your Shock Troops go Commando is a way to safeguard them and still capture some installations. Note that Shock Troops can go Commando even if there is no installations to capture.
 
-#### How can I get the SA-remastered system tiles? I did not see them on the website.
+<!-- #### How can I get the SA-remastered system tiles? I did not see them on the website.
+<div>
 
 Glad you are enjoying the look of these tiles! They are indeed not on the website, on purpose. PsiComa made them and wants to keep some control over them. Ask him nicely over Discord or by email at <A HREF="mailto:jeskogtvedt@gmail.com">jeskogtvedt (at) gmail.com</A>. You can find him on the [SA discord server](https://discord.gg/YXnyYzz).
+</div> -->
