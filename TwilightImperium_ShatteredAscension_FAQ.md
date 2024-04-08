@@ -68,10 +68,11 @@ The situation is different if you have the [XenoPsychology](http://www.astralvau
 
 ## Domain Counters<a name="DomainCounters"></a>  
 
-#### If I take control of a planet containing an Alien Technology, can I choose to gain the Nano Robotics technology to acquire that planet refreshed?
+#### If I take control of a planet containing an Alien Technology, and I choose the Nano Robotics technology, do I acquire that planet refreshed?
 <div>
 
-**No**, because Alien Technology is controlled as an Artifact. Control over Artifacts on planets is established at the end of actions. This means that at the time you take control of that planet, you do not yet control the Alien Technology and therefore do not have Nano Robotics yet.
+**No**, because Alien Technology is controlled as an Artifact. Control over Artifacts on planets is established at the end of actions. This means that at the time you take control of that planet, you do not yet control the Alien Technology and therefore do not benefit from Nano Robotics yet.  
+However, Nano Robotics would repair your units right away, as that effect happens "at the end of your action" at the same time you take control of the Alien Technology.
 </div>
 
 #### Do units spawned by Domain Counters count as "enemy" units for objectives\*?
