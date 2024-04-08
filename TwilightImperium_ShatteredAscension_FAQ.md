@@ -77,7 +77,7 @@ The situation is different if you have the [XenoPsychology](http://www.astralvau
 #### Do units spawned by Domain Counters count as "enemy" units for objectives\*?
 <div>
 
-**No**, because units spawned by Domain Counters are **neutral**, not **enemy**. See [Rulebook/Allegiances](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#user-content-Allegiances).
+**No**, because units spawned by Domain Counters are **neutral**, not **enemy**. See [Rulebook/Allegiances](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#Allegiances).
 
 \**For example an objective like "This round I destroyed enemy units in two different systems".*
 </div>
@@ -121,7 +121,7 @@ Testing revealed that human players\* do not have enough brain capacity to be ab
 #### Do PDS shots count as combat rolls?
 <div>
 
-**Yes**. Per the definition, any time you roll a die and compare it to the combat value of the unit (6 for PDS) is a [Combat Roll](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#user-content-CombatRoll).
+**Yes**. Per the definition, any time you roll a die and compare it to the combat value of the unit (6 for PDS) is a [Combat Roll](http://www.astralvault.net/games/SA/cyrusa/cyrusaRulebook/latest/TwilightImperium_ShatteredAscension_Rulebook.html#CombatRoll).
 </div>
 
 #### What is the point for Shock Troops to have the "Commando" ability to capture installations since they capture them anyway with their "Capture Installations" ability?
